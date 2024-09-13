@@ -13,9 +13,9 @@ The game ends if the obstacle collides with the player.
 <h3>Screenshots</h3>
 <h4>Player Movements</h4>
 <p float="left">
-  <img src="player_walk/tile000.gif" width="50px"><img src="player_walk/tile001.gif" width="50px"><img src="player_walk/tile002.gif" width="50px">
-  <img src="player_walk/tile003.gif" width="50px"><img src="player_walk/tile004.gif" width="50px">
-  <img src="player_walk/tile005.gif" width="50px"><img src="player_walk/tile006.gif" width="50px">
+  <img src="player_walk/tile000.gif" width="70px"><img src="player_walk/tile001.gif" width="70px"><img src="player_walk/tile002.gif" width="70px">
+  <img src="player_walk/tile003.gif" width="70px"><img src="player_walk/tile004.gif" width="70px">
+  <img src="player_walk/tile005.gif" width="70px"><img src="player_walk/tile006.gif" width="70px">
 </p>
 <hr>
 <h4>Fire Ball Obstacles</h4>
@@ -25,4 +25,4 @@ The game ends if the obstacle collides with the player.
 </p>
 <hr>
 <h4>In-game screenshots</h4>
-<img src="screenshots/ss1.png" width="100px"><img src="screenshots/ss2.png" width="100px">
+<img src="screenshots/ss1.png" width="400px"><img src="screenshots/ss2.png" width="400px">
