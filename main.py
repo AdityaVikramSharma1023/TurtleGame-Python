@@ -9,7 +9,7 @@ screen = Screen()
 screen.setup(1000,500)
 screen.tracer(0)
 screen.listen()
-screen.bgpic("bg1.png")
+screen.bgpic(os.path.join("backgrounds","bg1.png"))
 
 idle = []
 walk = []
