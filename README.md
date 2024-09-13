@@ -25,4 +25,4 @@ The game ends if the obstacle collides with the player.
 </p>
 <hr>
 <h4>In-game screenshots</h4>
-<img src="screenshots/ss1.png" width="400px"><img src="screenshots/ss2.png" width="400px">
+<img src="screenshots/ss1.png"><img src="screenshots/ss2.png">
